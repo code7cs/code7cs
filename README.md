@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ### Hi there! 👋
 
-#### I'm code7cs 🤖, I’m currently learning <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/1024px-Amazon_Web_Services_Logo.svg.png" alt="aws" width="26" height="16"/> and <img src="https://seeklogo.com/images/N/next-js-logo-7929BCD36F-seeklogo.com.png" alt="nextjs" width="30" height="20"/>.
+#### I'm code7cs 🤖, I’m currently learning <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/1024px-Amazon_Web_Services_Logo.svg.png" alt="aws" width="26" height="16"/> and <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg" alt="nextjs" width="60" height="50"/>.
 
 - <h5 align="left">Skills and Tools:</h5>
 <p align="left"> 
