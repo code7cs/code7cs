@@ -1,10 +1,10 @@
 <!-- Profile README for https://github.com/code7cs -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,50:8957e5,100:238636&height=130&section=header&text=code7cs&fontSize=48&fontColor=fff&animation=twinkling&desc=Full-stack%20developer%20%7C%20Angular%20%C2%B7%20React%20%C2%B7%20Node.js&descAlignY=65&descSize=16"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,50:8957e5,100:238636&height=130&section=header&text=code7cs&fontSize=48&fontColor=fff&animation=twinkling&desc=Next.js%20developer&descAlignY=65&descSize=18"/>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=4000&pause=900&color=58A6FF&center=true&vCenter=true&width=500&lines=Building+reliable+web+apps;Learning+AWS+%26+Next.js;Open+to+collaboration" alt="Typing intro"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=4000&pause=900&color=58A6FF&center=true&vCenter=true&width=500&lines=Next.js%20%26%20TypeScript;Building+reliable+web+apps;Open+to+collaboration" alt="Typing intro"/>
   </a>
 </p>
 
@@ -14,22 +14,17 @@
 
 ### Hi there! 👋
 
-I'm **code7cs** 🤖 — currently learning **AWS** and **Next.js**.
-
-<p align="left">
-  <a href="https://aws.amazon.com" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="32" height="32" alt="AWS" title="AWS"/></a>&nbsp;
-  <a href="https://nextjs.org" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="32" height="32" alt="Next.js" title="Next.js"/></a>
-</p>
+I'm **code7cs** 🤖
 
 ### 📊 GitHub analytics
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=code7cs&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats"/>
+  <img height="165" src="https://raw.githubusercontent.com/code7cs/code7cs/main/assets/profile/github-stats.svg" alt="GitHub stats"/>
   <img height="165" src="https://streak-stats.demolab.com/?user=code7cs&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=code7cs&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages"/>
+  <img src="https://raw.githubusercontent.com/code7cs/code7cs/main/assets/profile/top-langs.svg" alt="Top languages"/>
 </p>
 
 <p align="center">
@@ -37,7 +32,7 @@ I'm **code7cs** 🤖 — currently learning **AWS** and **Next.js**.
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=code7cs&theme=tokyonight&no-frame=true&column=4&margin-w=8&margin-h=8" alt="GitHub trophies"/>
+  <img src="https://raw.githubusercontent.com/code7cs/code7cs/main/assets/profile/trophies.svg" alt="GitHub trophies"/>
 </p>
 
 ### 🛠️ Skills & tools
