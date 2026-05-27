@@ -1,17 +1,16 @@
-<!--
-**code7cs/code7cs** is a ✨ _special_ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Profile README for https://github.com/code7cs -->
 
-Here are some ideas to get you started:
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,50:8957e5,100:238636&height=130&section=header&text=code7cs&fontSize=48&fontColor=fff&animation=twinkling&desc=Full-stack%20developer%20%7C%20Angular%20%C2%B7%20React%20%C2%B7%20Node.js&descAlignY=65&descSize=16"/>
 
-- 🔭 I'm currently working on ...
-- 🌱 I'm currently learning ...
-- 👯 I'm looking to collaborate on ...
-- 🤔 I'm looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=4000&pause=900&color=58A6FF&center=true&vCenter=true&width=500&lines=Building+reliable+web+apps;Learning+AWS+%26+Next.js;Open+to+collaboration" alt="Typing intro"/>
+  </a>
+</p>
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=code7cs&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile views"/>
+</p>
 
 ### Hi there! 👋
 
@@ -22,7 +21,26 @@ I'm **code7cs** 🤖 — currently learning **AWS** and **Next.js**.
   <a href="https://nextjs.org" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="32" height="32" alt="Next.js" title="Next.js"/></a>
 </p>
 
-### Skills & tools
+### 📊 GitHub analytics
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=code7cs&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats"/>
+  <img height="165" src="https://streak-stats.demolab.com/?user=code7cs&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=code7cs&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages"/>
+</p>
+
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=code7cs&theme=tokyo-night&hide_border=true&area=true&height=280&bg_color=1a1b27&color=7aa2f7&line=7aa2f7&point=ffffff&area_color=1a1b27" alt="Contribution activity graph"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=code7cs&theme=tokyonight&no-frame=true&column=4&margin-w=8&margin-h=8" alt="GitHub trophies"/>
+</p>
+
+### 🛠️ Skills & tools
 
 <p align="left">
   <a href="https://angular.dev" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" width="40" height="40" alt="Angular" title="Angular"/></a>&nbsp;
@@ -57,10 +75,10 @@ I'm **code7cs** 🤖 — currently learning **AWS** and **Next.js**.
   <a href="https://vuejs.org" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" width="40" height="40" alt="Vue.js" title="Vue.js"/></a>
 </p>
 
-### Let's connect! 😊
+### 🤝 Let's connect!
 
 <p align="left">
   <a href="https://github.com/code7cs" target="_blank" rel="noopener noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="40" height="40" alt="GitHub" title="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
