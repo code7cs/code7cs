@@ -29,8 +29,15 @@ I'm **code7cs** 🤖 — currently learning **AWS** and **Next.js**.
 
 <p align="left">
   <img
-    src="https://skillicons.dev/icons?i=angular,babel,css,cypress,express,figma,firebase,git,html,java,js,jest,mongodb,nextjs,ngrx,nodejs,postgres,postman,prisma,react,redux,rxjs,sass,tailwind,ts,vue&perline=8"
+    src="https://skillicons.dev/icons?i=angular,babel,css,cypress,express,figma,firebase,git,html,java,js,jest,mongodb,nextjs,aws,nodejs,postgres,postman,prisma,react,redux,rxjs,sass,tailwind,ts,vue&perline=8"
     alt="Skills and tools"
+  />
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ngrx/ngrx-original.svg"
+    width="48"
+    height="48"
+    alt="NgRx"
+    title="NgRx"
   />
 </p>
 
