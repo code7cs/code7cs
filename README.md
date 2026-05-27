@@ -12,19 +12,15 @@
   <img src="https://komarev.com/ghpvc/?username=code7cs&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile views"/>
 </p>
 
-### Hi there! 👋
-
-I'm **code7cs** 🤖
-
 ### 📊 GitHub analytics
 
 <p align="center">
-  <img height="165" src="https://raw.githubusercontent.com/code7cs/code7cs/main/assets/profile/github-stats.svg" alt="GitHub stats"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=code7cs&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats"/>
   <img height="165" src="https://streak-stats.demolab.com/?user=code7cs&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/code7cs/code7cs/main/assets/profile/top-langs.svg" alt="Top languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=code7cs&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages"/>
 </p>
 
 <p align="center">
@@ -32,7 +28,7 @@ I'm **code7cs** 🤖
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/code7cs/code7cs/main/assets/profile/trophies.svg" alt="GitHub trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=code7cs&theme=discord&no-frame=true&column=4&margin-w=8&margin-h=8" alt="GitHub trophies"/>
 </p>
 
 ### 🛠️ Skills & tools
