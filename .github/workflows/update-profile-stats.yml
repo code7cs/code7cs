@@ -1,80 +1,12 @@
-name: Update profile stats images
+# Disabled: github-readme-stats API is too unreliable for this profile.
+# Stats / top-langs / trophies were removed from README.md.
+name: Update profile stats images (disabled)
 
 on:
-  schedule:
-    - cron: "0 12 * * *"
   workflow_dispatch:
 
-permissions:
-  contents: write
-
 jobs:
-  update-stats:
+  noop:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
-
-      - name: Download stats SVGs
-        shell: bash
-        run: |
-          set -euo pipefail
-          mkdir -p assets/profile
-
-          fetch_svg() {
-            local url="$1"
-            local out="$2"
-            local required="${3:-true}"
-            local attempt code
-
-            for attempt in 1 2 3 4 5; do
-              code="$(curl -sL -w "%{http_code}" -o "$out" \
-                --connect-timeout 30 --max-time 120 \
-                -H "User-Agent: code7cs-profile-stats-workflow" \
-                "$url" || true)"
-
-              if [ "$code" = "200" ] && [ -s "$out" ] && grep -qi '<svg' "$out"; then
-                echo "Downloaded $out (attempt $attempt)"
-                return 0
-              fi
-
-              echo "Retry $attempt for $out (HTTP $code)"
-              sleep $((attempt * 20))
-            done
-
-            if [ "$required" = "true" ]; then
-              echo "Required download failed: $out"
-              return 1
-            fi
-
-            echo "Optional download failed, keeping existing: $out"
-            return 0
-          }
-
-          STATS_BASE="https://github-readme-stats.vercel.app"
-
-          fetch_svg \
-            "${STATS_BASE}/api?username=code7cs&show_icons=true&theme=tokyonight&hide_border=true" \
-            "assets/profile/github-stats.svg" \
-            "true"
-
-          fetch_svg \
-            "${STATS_BASE}/api/top-langs/?username=code7cs&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" \
-            "assets/profile/top-langs.svg" \
-            "true"
-
-          fetch_svg \
-            "https://github-profile-trophy.vercel.app/?username=code7cs&theme=discord&no-frame=true&column=4&margin-w=8&margin-h=8" \
-            "assets/profile/trophies.svg" \
-            "false"
-
-      - name: Commit and push
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add assets/profile/
-          if git diff --staged --quiet; then
-            echo "No changes to commit"
-            exit 0
-          fi
-          git commit -m "chore: update profile stats SVGs"
-          git push
+      - run: echo "Profile README no longer uses cached stats SVGs."
