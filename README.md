@@ -15,20 +15,11 @@
 ### 📊 GitHub analytics
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=code7cs&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats"/>
-  <img height="165" src="https://streak-stats.demolab.com/?user=code7cs&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=code7cs&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages"/>
+  <img src="https://streak-stats.demolab.com/?user=code7cs&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
 </p>
 
 <p align="center">
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=code7cs&theme=tokyo-night&hide_border=true&area=true&height=280&bg_color=1a1b27&color=7aa2f7&line=7aa2f7&point=ffffff&area_color=1a1b27" alt="Contribution activity graph"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=code7cs&theme=discord&no-frame=true&column=4&margin-w=8&margin-h=8" alt="GitHub trophies"/>
 </p>
 
 ### 🛠️ Skills & tools
