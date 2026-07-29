@@ -26,26 +26,32 @@ I’m a senior full-stack engineer with 6+ years of experience building and evol
 
 ## What I care about
 
-<table>
+<table width="100%">
   <tr>
-    <td width="33%" valign="top">
-      <h3>🧭 Clear architecture</h3>
-      <p>Systems that stay understandable as products and teams grow.</p>
+    <td width="33%" align="center" valign="middle">
+      <div align="center">
+        <h3>🧭 Clear architecture</h3>
+        <p>Systems that stay understandable as products and teams grow.</p>
+      </div>
     </td>
-    <td width="33%" valign="top">
-      <h3>⚡ Product quality</h3>
-      <p>Performance and accessibility treated as product features.</p>
+    <td width="33%" align="center" valign="middle">
+      <div align="center">
+        <h3>⚡ Product quality</h3>
+        <p>Performance and accessibility treated as product features.</p>
+      </div>
     </td>
-    <td width="33%" valign="top">
-      <h3>🌱 Healthy teams</h3>
-      <p>Mentoring, pragmatic standards, and decisions with context.</p>
+    <td width="33%" align="center" valign="middle">
+      <div align="center">
+        <h3>🌱 Healthy teams</h3>
+        <p>Mentoring, pragmatic standards, and decisions with context.</p>
+      </div>
     </td>
   </tr>
 </table>
 
 ## Tools I reach for
 
-<strong>Frontend</strong>
+### Frontend
 
 <p>
   <a href="https://react.dev"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="42" height="42" alt="React" title="React" /></a>&nbsp;
@@ -58,35 +64,34 @@ I’m a senior full-stack engineer with 6+ years of experience building and evol
   <a href="https://tailwindcss.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="42" height="42" alt="Tailwind CSS" title="Tailwind CSS" /></a>
 </p>
 
-<strong>Backend &amp; data</strong>
+### Backend & data
 
 <p>
   <a href="https://nodejs.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="42" height="42" alt="Node.js" title="Node.js" /></a>&nbsp;
   <a href="https://expressjs.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" width="42" height="42" alt="Express" title="Express" /></a>&nbsp;
-  <a href="https://spring.io/projects/spring-boot"><img src="https://cdn.simpleicons.org/springboot/6DB33F" width="42" height="42" alt="Spring Boot" title="Spring Boot" /></a>&nbsp;
+  <a href="https://graphql.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/graphql/graphql-plain.svg" width="42" height="42" alt="GraphQL" title="GraphQL" /></a>&nbsp;
+  <a href="https://spring.io/projects/spring-boot"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="42" height="42" alt="Spring Boot" title="Spring Boot" /></a>&nbsp;
   <a href="https://www.postgresql.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="42" height="42" alt="PostgreSQL" title="PostgreSQL" /></a>&nbsp;
   <a href="https://www.mongodb.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="42" height="42" alt="MongoDB" title="MongoDB" /></a>&nbsp;
-  <a href="https://www.prisma.io"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg" width="42" height="42" alt="Prisma" title="Prisma" /></a>&nbsp;
-  <a href="https://firebase.google.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-plain.svg" width="42" height="42" alt="Firebase" title="Firebase" /></a>
+  <a href="https://www.prisma.io"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg" width="42" height="42" alt="Prisma" title="Prisma" /></a>
 </p>
 
-<details>
-  <summary><strong>More tools I’ve worked with</strong></summary>
-  <br />
-  <p>
-    <a href="https://babeljs.io"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/babel/babel-original.svg" width="36" height="36" alt="Babel" title="Babel" /></a>&nbsp;
-    <a href="https://www.cypress.io"><img src="https://cdn.simpleicons.org/cypress/17202C" width="36" height="36" alt="Cypress" title="Cypress" /></a>&nbsp;
-    <a href="https://www.figma.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="36" height="36" alt="Figma" title="Figma" /></a>&nbsp;
-    <a href="https://git-scm.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="36" height="36" alt="Git" title="Git" /></a>&nbsp;
-    <a href="https://jestjs.io"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg" width="36" height="36" alt="Jest" title="Jest" /></a>&nbsp;
-    <a href="https://ngrx.io"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ngrx/ngrx-plain.svg" width="36" height="36" alt="NgRx" title="NgRx" /></a>&nbsp;
-    <a href="https://www.postman.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" width="36" height="36" alt="Postman" title="Postman" /></a>&nbsp;
-    <a href="https://redux.js.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redux/redux-original.svg" width="36" height="36" alt="Redux" title="Redux" /></a>&nbsp;
-    <a href="https://rxjs.dev"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rxjs/rxjs-original.svg" width="36" height="36" alt="RxJS" title="RxJS" /></a>&nbsp;
-    <a href="https://sass-lang.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" width="36" height="36" alt="Sass" title="Sass" /></a>&nbsp;
-    <a href="https://vuejs.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" width="36" height="36" alt="Vue.js" title="Vue.js" /></a>
-  </p>
-</details>
+### Platform & quality
+
+<p>
+  <a href="https://aws.amazon.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="42" height="42" alt="AWS" title="AWS" /></a>&nbsp;
+  <a href="https://www.docker.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="42" height="42" alt="Docker" title="Docker" /></a>&nbsp;
+  <a href="https://nx.dev"><img src="https://raw.githubusercontent.com/nrwl/nx/master/images/nx-logo.svg" width="42" height="42" alt="Nx" title="Nx" /></a>&nbsp;
+  <a href="https://vite.dev"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" width="42" height="42" alt="Vite" title="Vite" /></a>&nbsp;
+  <a href="https://webpack.js.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/webpack/webpack-original.svg" width="42" height="42" alt="Webpack" title="Webpack" /></a>&nbsp;
+  <a href="https://vitest.dev"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitest/vitest-original.svg" width="42" height="42" alt="Vitest" title="Vitest" /></a>&nbsp;
+  <a href="https://playwright.dev"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/playwright/playwright-original.svg" width="42" height="42" alt="Playwright" title="Playwright" /></a>&nbsp;
+  <a href="https://www.cypress.io"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original.svg" width="42" height="42" alt="Cypress" title="Cypress" /></a>&nbsp;
+  <a href="https://jestjs.io"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg" width="42" height="42" alt="Jest" title="Jest" /></a>&nbsp;
+  <a href="https://git-scm.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="42" height="42" alt="Git" title="Git" /></a>&nbsp;
+  <a href="https://www.jenkins.io"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-original.svg" width="42" height="42" alt="Jenkins" title="Jenkins" /></a>&nbsp;
+  <a href="https://vercel.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg" width="42" height="42" alt="Vercel" title="Vercel" /></a>
+</p>
 
 ## A little GitHub context
 
