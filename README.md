@@ -21,7 +21,9 @@ I’m a senior full-stack engineer with 6+ years of experience building and evol
   <a href="https://www.linkedin.com/in/hanfan/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="Connect with Hanfan on LinkedIn" />
   </a>
-  <img src="https://img.shields.io/badge/Open_to-senior_full--stack_opportunities-238636?style=flat-square" alt="Open to senior full-stack opportunities" />
+  <a href="https://github.com/code7cs">
+    <img src="https://img.shields.io/badge/GitHub-Connect-181717?style=flat-square&logo=github&logoColor=white" alt="Connect with Hanfan on GitHub" />
+  </a>
 </p>
 
 ## What I care about
