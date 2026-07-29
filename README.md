@@ -6,7 +6,7 @@
 
 ### Senior Full-Stack Engineer driving frontend architecture and end-to-end delivery.
 
-I’m a full-stack engineer with 6+ years of professional experience building and evolving enterprise SaaS products. I work across the stack, with deepest expertise in React, Next.js, TypeScript, and Angular, plus hands-on experience building APIs, services, and data layers. I care about scalable architecture, accessibility, web performance, testing, and developer experience.
+I’m a software engineer with 6+ years of professional experience building and evolving enterprise SaaS products. I work across the stack, with deepest expertise in React, Next.js, TypeScript, and Angular, plus hands-on experience building APIs, services, and data layers. I care about scalable architecture, accessibility, web performance, testing, and developer experience.
 
 <p align="center">
   <a href="https://git.io/typing-svg">
