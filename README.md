@@ -28,28 +28,11 @@ I’m a senior full-stack engineer with 6+ years of experience building and evol
 
 ## What I care about
 
-<table width="100%">
-  <tr>
-    <td width="33%" align="center" valign="middle">
-      <div align="center">
-        <h3>🧭 Clear architecture</h3>
-        <p>Systems that stay understandable as products and teams grow.</p>
-      </div>
-    </td>
-    <td width="33%" align="center" valign="middle">
-      <div align="center">
-        <h3>⚡ Product quality</h3>
-        <p>Performance and accessibility treated as product features.</p>
-      </div>
-    </td>
-    <td width="33%" align="center" valign="middle">
-      <div align="center">
-        <h3>🌱 Healthy teams</h3>
-        <p>Mentoring, pragmatic standards, and decisions with context.</p>
-      </div>
-    </td>
-  </tr>
-</table>
+<img
+  width="100%"
+  src="./assets/profile/values-cards.svg"
+  alt="Three values: Clear architecture — systems that stay understandable as products and teams grow. Product quality — performance and accessibility treated as product features. Healthy teams — mentoring, pragmatic standards, and decisions with context."
+/>
 
 ## Tools I reach for
 
