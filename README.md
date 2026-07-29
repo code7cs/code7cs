@@ -4,7 +4,7 @@
 
 # Hey, I’m Hanfan 👋
 
-### Senior full-stack engineer with deep frontend expertise.
+### Senior Full-Stack Engineer driving frontend architecture and end-to-end delivery.
 
 I’m a senior full-stack engineer with 6+ years of experience building and evolving enterprise SaaS products. I work across the stack, with deepest expertise in React, Next.js, TypeScript, and Angular, plus hands-on experience building APIs, services, and data layers. I care about scalable architecture, accessibility, web performance, testing, and developer experience.
 
