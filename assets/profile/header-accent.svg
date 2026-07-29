@@ -16,12 +16,12 @@
       <stop offset="1" stop-color="#8B5CF6" stop-opacity="0"/>
     </radialGradient>
     <style>
-      .cyan-glow { animation: glow-breathe 12s ease-in-out infinite; }
-      .wave-one { animation: wave-one-drift 14s ease-in-out infinite; }
-      .wave-two { animation: wave-two-drift 18s ease-in-out infinite; }
-      @keyframes glow-breathe { 0%, 100% { opacity: .58; } 50% { opacity: .92; } }
-      @keyframes wave-one-drift { 0%, 100% { transform: translateX(-12px); } 50% { transform: translateX(12px); } }
-      @keyframes wave-two-drift { 0%, 100% { transform: translateX(16px); } 50% { transform: translateX(-16px); } }
+      .cyan-glow { animation: glow-breathe 7s ease-in-out infinite; }
+      .wave-one { animation: wave-one-drift 6s ease-in-out infinite; }
+      .wave-two { animation: wave-two-drift 8s ease-in-out infinite; }
+      @keyframes glow-breathe { 0%, 100% { opacity: .46; } 50% { opacity: 1; } }
+      @keyframes wave-one-drift { 0%, 100% { transform: translate(-28px, 3px); } 50% { transform: translate(28px, -4px); } }
+      @keyframes wave-two-drift { 0%, 100% { transform: translate(26px, -2px); } 50% { transform: translate(-26px, 4px); } }
       @media (prefers-reduced-motion: reduce) {
         .cyan-glow, .wave-one, .wave-two { animation: none !important; }
       }
@@ -30,7 +30,7 @@
   <rect width="1200" height="90" rx="8" fill="url(#background)"/>
   <rect class="cyan-glow" width="1200" height="90" rx="8" fill="url(#cyanGlow)"/>
   <rect width="1200" height="90" rx="8" fill="url(#violetGlow)"/>
-  <path class="wave-one" d="M-30 75C185 22 315 105 530 59S900 16 1230 69" fill="none" stroke="#60A5FA" stroke-opacity="0.42" stroke-width="2"/>
-  <path class="wave-two" d="M-30 85C185 32 315 115 530 69S900 26 1230 79" fill="none" stroke="#8B5CF6" stroke-opacity="0.28"/>
+  <path class="wave-one" d="M-30 75C185 22 315 105 530 59S900 16 1230 69" fill="none" stroke="#60A5FA" stroke-opacity="0.54" stroke-width="3.25"/>
+  <path class="wave-two" d="M-30 85C185 32 315 115 530 69S900 26 1230 79" fill="none" stroke="#8B5CF6" stroke-opacity="0.36" stroke-width="2.25"/>
   <text x="1166" y="70" text-anchor="end" fill="#334155" fill-opacity="0.74" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14">@code7cs</text>
 </svg>
