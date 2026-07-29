@@ -1,6 +1,6 @@
 <!-- Profile README for https://github.com/code7cs -->
 
-<img width="100%" src="./assets/profile/header-accent.svg" alt="Glacier-blue profile accent with flowing blue and violet lines for code7cs" />
+<img width="100%" src="./assets/profile/header-accent.svg" alt="Abstract blue, violet, and green profile accent for code7cs" />
 
 # Hey, I’m Hanfan 👋
 
