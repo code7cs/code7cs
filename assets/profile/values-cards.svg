@@ -1,0 +1,158 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="280" viewBox="0 0 1200 280" role="img" aria-labelledby="title desc">
+  <title id="title">What I care about</title>
+  <desc id="desc">Three values: clear architecture, product quality, and healthy teams.</desc>
+
+  <defs>
+    <linearGradient id="cardSurface" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#111827"/>
+      <stop offset="1" stop-color="#0b1220"/>
+    </linearGradient>
+    <linearGradient id="blueAccent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#38bdf8"/>
+      <stop offset="1" stop-color="#6366f1"/>
+    </linearGradient>
+    <linearGradient id="violetAccent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#818cf8"/>
+      <stop offset="1" stop-color="#c084fc"/>
+    </linearGradient>
+    <linearGradient id="greenAccent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#2dd4bf"/>
+      <stop offset="1" stop-color="#4ade80"/>
+    </linearGradient>
+    <linearGradient id="shine" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#fff" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#fff" stop-opacity="0.9"/>
+      <stop offset="1" stop-color="#fff" stop-opacity="0"/>
+    </linearGradient>
+    <radialGradient id="blueGlow">
+      <stop offset="0" stop-color="#38bdf8" stop-opacity="0.48"/>
+      <stop offset="1" stop-color="#38bdf8" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="violetGlow">
+      <stop offset="0" stop-color="#a78bfa" stop-opacity="0.48"/>
+      <stop offset="1" stop-color="#a78bfa" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="greenGlow">
+      <stop offset="0" stop-color="#34d399" stop-opacity="0.42"/>
+      <stop offset="1" stop-color="#34d399" stop-opacity="0"/>
+    </radialGradient>
+    <clipPath id="clipBlue"><rect x="24" y="24" width="368" height="232" rx="18"/></clipPath>
+    <clipPath id="clipViolet"><rect x="416" y="24" width="368" height="232" rx="18"/></clipPath>
+    <clipPath id="clipGreen"><rect x="808" y="24" width="368" height="232" rx="18"/></clipPath>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="10" stdDeviation="14" flood-color="#020617" flood-opacity="0.35"/>
+    </filter>
+  </defs>
+
+  <style>
+    .card { fill: url(#cardSurface); stroke: #263244; stroke-width: 1; }
+    .number {
+      font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
+      font-size: 12px;
+      font-weight: 700;
+      letter-spacing: 1px;
+    }
+    .card-title {
+      fill: #f8fafc;
+      font-family: Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+      font-size: 24px;
+      font-weight: 700;
+      letter-spacing: -0.4px;
+    }
+    .copy {
+      fill: #aebbd0;
+      font-family: Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+      font-size: 16px;
+      font-weight: 400;
+    }
+    .glow {
+      animation: breathe 8s ease-in-out infinite;
+      transform-box: fill-box;
+      transform-origin: center;
+    }
+    .glow-violet { animation-delay: -2.6s; animation-duration: 8.8s; }
+    .glow-green { animation-delay: -5.2s; animation-duration: 9.4s; }
+    .shine {
+      animation: sweep 10s ease-in-out infinite;
+      transform-box: fill-box;
+    }
+    .shine-violet { animation-delay: -3.3s; }
+    .shine-green { animation-delay: -6.6s; }
+    @keyframes breathe {
+      0%, 100% { opacity: 0.18; transform: scale(0.94); }
+      50% { opacity: 0.42; transform: scale(1.06); }
+    }
+    @keyframes sweep {
+      0%, 16% { opacity: 0; transform: translateX(-110px); }
+      24% { opacity: 0.7; }
+      46% { opacity: 0; transform: translateX(420px); }
+      100% { opacity: 0; transform: translateX(420px); }
+    }
+    @media (prefers-reduced-motion: reduce) {
+      .glow, .shine { animation: none !important; }
+      .glow { opacity: 0.24; transform: none; }
+      .shine { opacity: 0; }
+    }
+  </style>
+
+  <g filter="url(#shadow)">
+    <rect class="card" x="24" y="24" width="368" height="232" rx="18"/>
+    <rect class="card" x="416" y="24" width="368" height="232" rx="18"/>
+    <rect class="card" x="808" y="24" width="368" height="232" rx="18"/>
+  </g>
+
+  <g clip-path="url(#clipBlue)">
+    <circle class="glow" cx="342" cy="44" r="125" fill="url(#blueGlow)"/>
+    <rect x="24" y="24" width="368" height="3" fill="url(#blueAccent)"/>
+    <rect class="shine" x="-90" y="24" width="90" height="3" fill="url(#shine)"/>
+  </g>
+  <g clip-path="url(#clipViolet)">
+    <circle class="glow glow-violet" cx="734" cy="44" r="125" fill="url(#violetGlow)"/>
+    <rect x="416" y="24" width="368" height="3" fill="url(#violetAccent)"/>
+    <rect class="shine shine-violet" x="302" y="24" width="90" height="3" fill="url(#shine)"/>
+  </g>
+  <g clip-path="url(#clipGreen)">
+    <circle class="glow glow-green" cx="1126" cy="44" r="125" fill="url(#greenGlow)"/>
+    <rect x="808" y="24" width="368" height="3" fill="url(#greenAccent)"/>
+    <rect class="shine shine-green" x="694" y="24" width="90" height="3" fill="url(#shine)"/>
+  </g>
+
+  <g>
+    <rect x="52" y="54" width="44" height="26" rx="13" fill="#38bdf8" fill-opacity="0.12" stroke="#38bdf8" stroke-opacity="0.35"/>
+    <text class="number" x="74" y="72" text-anchor="middle" fill="#7dd3fc">01</text>
+    <text class="card-title" x="52" y="124">Clear architecture</text>
+    <text class="copy" x="52" y="163">
+      <tspan x="52" dy="0">Systems that stay understandable</tspan>
+      <tspan x="52" dy="25">as products and teams grow.</tspan>
+    </text>
+    <rect x="320" y="171" width="24" height="14" rx="4" fill="none" stroke="#38bdf8" stroke-width="2" opacity="0.76"/>
+    <rect x="336" y="189" width="24" height="14" rx="4" fill="none" stroke="#38bdf8" stroke-width="2" opacity="0.56"/>
+    <path d="M332 185v6h4" fill="none" stroke="#38bdf8" stroke-width="2" stroke-linecap="round" opacity="0.66"/>
+  </g>
+
+  <g>
+    <rect x="444" y="54" width="44" height="26" rx="13" fill="#a78bfa" fill-opacity="0.12" stroke="#a78bfa" stroke-opacity="0.35"/>
+    <text class="number" x="466" y="72" text-anchor="middle" fill="#c4b5fd">02</text>
+    <text class="card-title" x="444" y="124">Product quality</text>
+    <text class="copy" x="444" y="163">
+      <tspan x="444" dy="0">Performance and accessibility</tspan>
+      <tspan x="444" dy="25">treated as product features.</tspan>
+    </text>
+    <circle cx="718" cy="184" r="15" fill="none" stroke="#a78bfa" stroke-width="2" opacity="0.62"/>
+    <path d="m709 184 6 6 12-13" fill="none" stroke="#a78bfa" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" opacity="0.86"/>
+  </g>
+
+  <g>
+    <rect x="836" y="54" width="44" height="26" rx="13" fill="#34d399" fill-opacity="0.12" stroke="#34d399" stroke-opacity="0.35"/>
+    <text class="number" x="858" y="72" text-anchor="middle" fill="#6ee7b7">03</text>
+    <text class="card-title" x="836" y="124">Healthy teams</text>
+    <text class="copy" x="836" y="163">
+      <tspan x="836" dy="0">Mentoring, pragmatic standards,</tspan>
+      <tspan x="836" dy="25">and decisions with context.</tspan>
+    </text>
+    <circle cx="1101" cy="183" r="5" fill="#34d399" opacity="0.82"/>
+    <circle cx="1123" cy="171" r="5" fill="#34d399" opacity="0.58"/>
+    <circle cx="1145" cy="189" r="5" fill="#34d399" opacity="0.7"/>
+    <path d="m1105 181 14-8m8 1 14 12" fill="none" stroke="#34d399" stroke-width="2" stroke-linecap="round" opacity="0.55"/>
+  </g>
+</svg>
