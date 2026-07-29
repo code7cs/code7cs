@@ -119,7 +119,7 @@
 
   <g>
     <rect x="52" y="54" width="44" height="26" rx="13" fill="#38bdf8" fill-opacity="0.12" stroke="#38bdf8" stroke-opacity="0.35"/>
-    <text class="number" x="74" y="72" text-anchor="middle" fill="#7dd3fc">01</text>
+    <text class="number" x="74" y="72" text-anchor="middle" fill="#0369A1">01</text>
     <text class="card-title" x="52" y="124">Clear architecture</text>
     <text class="copy" x="52" y="163">
       <tspan x="52" dy="0">Systems that stay understandable</tspan>
@@ -132,7 +132,7 @@
 
   <g>
     <rect x="444" y="54" width="44" height="26" rx="13" fill="#a78bfa" fill-opacity="0.12" stroke="#a78bfa" stroke-opacity="0.35"/>
-    <text class="number" x="466" y="72" text-anchor="middle" fill="#c4b5fd">02</text>
+    <text class="number" x="466" y="72" text-anchor="middle" fill="#6D28D9">02</text>
     <text class="card-title" x="444" y="124">Product quality</text>
     <text class="copy" x="444" y="163">
       <tspan x="444" dy="0">Performance and accessibility</tspan>
@@ -144,7 +144,7 @@
 
   <g>
     <rect x="836" y="54" width="44" height="26" rx="13" fill="#34d399" fill-opacity="0.12" stroke="#34d399" stroke-opacity="0.35"/>
-    <text class="number" x="858" y="72" text-anchor="middle" fill="#6ee7b7">03</text>
+    <text class="number" x="858" y="72" text-anchor="middle" fill="#047857">03</text>
     <text class="card-title" x="836" y="124">Healthy teams</text>
     <text class="copy" x="836" y="163">
       <tspan x="836" dy="0">Mentoring, pragmatic standards,</tspan>
